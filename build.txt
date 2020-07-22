@@ -1,0 +1,3 @@
+displayName = Better Widgets
+author = convicted tomatohpile (Stevie) & TheStachelFisch
+version = 0.1
