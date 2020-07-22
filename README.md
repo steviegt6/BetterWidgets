@@ -1,2 +1,3 @@
-# BetterWidgets
- Objectively better than Widgets.
+# Better Widgets
+
+Objectively better than Widgets.
