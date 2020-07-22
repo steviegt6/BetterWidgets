@@ -1,3 +1,6 @@
 displayName = Better Widgets
 author = convicted tomatophile (Stevie) & TheStachelFisch
 version = 1.0.0
+includeSource = true
+includePDB = true
+side = Client
